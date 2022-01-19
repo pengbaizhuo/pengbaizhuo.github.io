@@ -1,3 +1,1 @@
-# theme: jekyll-theme-midnight
-include:
-- .nojekyll
+theme: jekyll-theme-midnight
